@@ -1,0 +1,8 @@
+xml
+xml
+<dir name ='site' id='0'>
+  <dir name ='news' id='12'>
+    <file name ='set' id='24'/>
+  </dir>
+  <file name ='dir' id='35'/>
+</dir>
